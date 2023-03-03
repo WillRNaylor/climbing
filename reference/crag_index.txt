@@ -1,16 +1,12 @@
-Greece; Kalymnos; Arginonta Valley: arginonta valley
-Greece; Kalymnos; Masouri Skyline: masouri skyline
-Greece; Kalymnos; Odyssey: Odyssey
-Greece; Kalymnos; Olympic Wall: olympic wall
-New Zealand; Christchurch; Britten crag: Britten
-New Zealand; Christchurch; Castle Hill: Castle Hill
-New Zealand; Christchurch; Lyttelton Rock: lyttelton rock
-New Zealand; Christchurch; The Cave: The Cave
 New Zealand; Wanaka; Hotline corner: Hotline corner
 New Zealand; Wanaka; Mt Iron: Mt Iron
 New Zealand; Wanaka; Riverside: Riverside
 New Zealand; Wanaka; Rumour Mill: Rumour Mill
 New Zealand; Wanaka; Tombstone: tombstone
+New Zealand; Christchurch; Britten crag: Britten
+New Zealand; Christchurch; Castle Hill: Castle Hill
+New Zealand; Christchurch; Lyttelton Rock: lyttelton rock
+New Zealand; Christchurch; The Cave: The Cave
 Norway; Beachen: beachen
 Norway; Ekne: ekne
 Norway; Flatanger: Flatanger
@@ -22,3 +18,7 @@ Norway; Ishoel: ishoel
 Norway; Korsvika: Korsvika
 Norway; Kvam: kvam
 Norway; Vingsand: Vingsand
+Greece; Kalymnos; Arginonta Valley: arginonta valley
+Greece; Kalymnos; Masouri Skyline: masouri skyline
+Greece; Kalymnos; Odyssey: Odyssey
+Greece; Kalymnos; Olympic Wall: olympic wall

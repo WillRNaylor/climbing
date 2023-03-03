@@ -1,4 +1,5 @@
 import util
+import write
 
 '''
 Runs basic analysis and prints out climbing log.
@@ -17,5 +18,8 @@ grades = util.get_grade_conv(GRADEFILE)
 
 df = util.read_log_file(LOGFILE, grades)
 
+# ---- Overwrite the README.md file
+write.init()
+write.log_by_crag(df, crags)
 
 print(df.crag.unique())
