@@ -1,0 +1,7 @@
+name: climbing
+channels:
+    - conda-forge
+dependencies:
+    - flake8
+    - numpy
+    - pandas
