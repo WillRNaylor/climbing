@@ -42,6 +42,3 @@ def log_by_crag(df, crags):
             f.write("| ---- |:-----:| ---------- |:----:| ------- |\n")
             for i in range(cdf.shape[0]):
                 f.write(f"| {cdf.date[i]} | {cdf.grade[i]} | {cdf.route[i]} | {cdf.ascent_type[i]} | {cdf.comment[i]} |\n")
-
-        f.write(df.to_string())
-        print(df)
