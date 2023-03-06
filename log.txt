@@ -304,3 +304,7 @@ Riverside:
 The Engorger; 24; f; Nice route, probably soft, one harder move as you go over the bulge.
 Zoot Alors; 24; r; Had one attemp about a month back. Maybe soft, but a super nice route.
 
+05.03.23
+bannockburn:
+Heart of the Desert; 17; o
+Cherry Picker; 20; o
