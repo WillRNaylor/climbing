@@ -1,3 +1,5 @@
+New Zealand; Wanaka; Al Cap: Al Cap
+New Zealand; Wanaka; Farside: Farside
 New Zealand; Wanaka; Hotline corner: Hotline corner
 New Zealand; Wanaka; Mt Iron: Mt Iron
 New Zealand; Wanaka; Riverside: Riverside
@@ -11,12 +13,13 @@ Norway; Beachen: beachen
 Norway; Ekne: ekne
 Norway; Flatanger: Flatanger
 Norway; Hanko: Hanko
-Norway; Harbak: harbak
+Norway; Harbak: Harbak
 Norway; Hell: Hell
 Norway; Kongeveggen: kongeveggen
 Norway; Ishoel: ishoel
 Norway; Korsvika: Korsvika
 Norway; Kvam: kvam
+Norway; Storvika: Storvika
 Norway; Vingsand: Vingsand
 Greece; Kalymnos; Arginonta Valley: arginonta valley
 Greece; Kalymnos; Masouri Skyline: masouri skyline

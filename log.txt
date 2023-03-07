@@ -52,7 +52,7 @@ Britten:
 Liposuction; 23; r; Fantastic climbing
 
 11.03.17
-Where angels fear to tread; 24; Soft, overrated. Boudler to start then easy to top
+Where angels fear to tread; 24; r; Soft, overrated. Boudler to start then easy to top
 
 14.04.17
 Riverside:
@@ -281,6 +281,90 @@ Lumbago; 7b; r; ~6 attempts over two days. Just a boulder problem.
 Action direct; 5+; r
 Naadelos som Cola; 6b; f
 
+09.06.22
+Hell:
+Klassikeren; 7b; r; Tried this on occasion over multiple years but got injured on it so never took it too serious. Went pretty easy in the end.
+
+02.07.22
+Flatanger:
+Ukjent; 6b+; o; I heard it was 6b, either grade could be correct.
+Kykkeli; 7b; r; Did it on a warm up, easy when dry (with good beta)
+
+03.07.22
+Kykkelikokos; 7b+; r; Took three attempts on the top. Probably easy for the grade when dry.
+
+13.07.22
+Steiny L1; 8a; r; First 8a. About 7 attempts
+
+14.07.22
+Frigg L1; 7b+; r; Three goes, but took a while to get a beta. Super physical. Knee pad.
+
+22.07.22
+Beachen:
+Herlige Tider; 7a; f
+
+23.07.22
+Aloha; 7b+; r; Great line. 3 goes. On the easier side probably. Super nice climb with a little crux at the top.
+
+24.07.22
+Brillefin; 7b; r; Soft. Basically just a crux. Maybe it feels more like the grade if its at your max?
+
+05.08.22
+Hell:
+Lettere opp enn ned; 4+; o
+Joggesko; 4; o
+Runddansen; 6a; o
+Skjaeringspunktet; 6b+; o
+Lykkebuen; 6b; o
+En liten svingom; 6a; o
+
+21.08.22
+Raakkenraall; 7b; r; One quite hard move.
+
+23.08.22
+Butthole surfer; 6b+; r; Quite cruxy, and not really a noteworthy climb.
+
+10.09.22
+Flatanger:
+Hans; 7b; r; Soft. Two goes, very top is technical/trust your feet. Pretty easy when you know whats up. Topped out.
+
+30.09.22
+Storvika:
+Unnamed; 6b+; o; Soft
+Unnamed; 6a+; o
+Høyrevridd propaganda; 5+; o; Really poor rock quality.
+Closed project; 6b; r; Flashed it almost a year ago with broken toe.
+Gompi; 6c; r; Flashed it almost a year ago with broken toe, but didn't log
+
+07.01.23
+Mt Iron:
+Out there on the edge; 20; f
+Iron Maiden; 22; f
+Irony; 25; r; Bouldery, third go.
+
+09.01.23
+Riverside:
+Jack Be Nimble; 23; o; Very soft
+
+12.01.23
+Mt Iron:
+Waking up the Missus; 20; o
+
+13.01.23
+Farside:
+Chairman Ed; 17; o
+In Flagrante Delecto; 19; o
+Jock the Frotterer; 19; o
+Unknown 23 beside bogans; 23; r
+Bogans; 17; f
+
+18.01.23
+Al Cap:
+R.T.D.; 23; f
+
+19.01.23
+Huffer; 25; r
+
 01.02.23
 Riverside:
 Jack be Nimble; 23; r; Approx. date. Kind of a flash, but I think I tried it some years back. Super soft, but a nice climb.
@@ -308,3 +392,7 @@ Zoot Alors; 24; r; Had one attemp about a month back. Maybe soft, but a super ni
 bannockburn:
 Heart of the Desert; 17; o
 Cherry Picker; 20; o
+
+07.03.23
+Mt Iron:
+Right Bastard; 26; r; Worked this for three sessions. A bad fall early on may have scarred me a little on it.

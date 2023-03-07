@@ -1,0 +1,29 @@
+body{
+    background-color:#080808;
+}
+h1{
+    color:#ABB2B9;
+    font-family: monospace;
+}
+p{
+    color: #C2C2C2;
+    font-family: monospace;
+}
+table td{
+    color:#C2C2C2;
+    font-family: monospace;
+}
+table.sortable {
+    width: 100%;
+}
+table.sortable thead {
+    background-color:#505050;
+    color: #EEEEEE;
+    font-weight: bold;
+    font-family: monospace;
+    cursor: default;
+}
+tr:nth-child(even) {
+    background-color:#1D1D1D;
+}
+tr:hover {background-color:#505050;}

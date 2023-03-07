@@ -20,4 +20,4 @@ df = util.read_log_file(LOGFILE, grades)
 
 # ---- Overwrite the README.md file
 write.init()
-write.log_by_crag(df, crags)
+write.write_table(df, crags)

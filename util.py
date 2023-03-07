@@ -70,6 +70,7 @@ def read_log_file(file, grades):
                 num_grade = grades[grade]
             elif grade[0] in ['B', 'V']:
                 print(f'WARNING: Skipping boulders for now (l.{i + 1}): {line}')
+                num_grade = 0
             else:
                 num_grade = int(grade)
             ascent_type = entry[2].lstrip().rstrip()
