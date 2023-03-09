@@ -25,44 +25,25 @@ def make_nested_crag_list(crags):
     crags[oc[0]][0]
 
 
-
-def log_by_crag(df, crags):
-    '''
-    Will print all logs per crag. Crags will be ordered by the order in crag_index.txt
-    '''
-    # Make the nested list of crags with locations
-    cnested = make_nested_crag_list(crags)
-
-    # Contents
+def analysis():
     with open('log.html', 'a') as f:
-        crags_visited = df.crag.unique()
-        levels = [None, None, None, None]
-        ordered_crags = list(crags.keys())
-        for crag in ordered_crags:
-            if crag not in crags_visited:
-                continue
-            crag_details = crags[crag]
-            for l in range(len(crag_details)):
-                if levels[l] != crag_details[l]:
-                    levels[l] = crag_details[l]
-                    f.write(f"{l * '  '}* [{levels[l]}](#{'-'.join(crags[crag]).replace(' ', '-').lower()})\n")
-        
-        # List of sends
-        for crag in ordered_crags:
-            f.write(f"## {', '.join(crags[crag])}\n\n")
-            cdf = df.loc[df.crag == crag].sort_values('grade').reset_index()
-            print(cdf)
-            f.write("| Date | Grade | Route name | Type | Comment |\n")
-            f.write("| ---- |:-----:| ---------- |:----:| ------- |\n")
-            for i in range(cdf.shape[0]):
-                f.write(f"| {cdf.date[i]} | {cdf.grade[i]} | {cdf.route[i]} | {cdf.ascent_type[i]} | {cdf.comment[i]} |\n")
+        f.write("\n<h2>Summary</h2>\n")
+        f.write('<figure class="left">')
+        f.write('<img src="figures/sport_total.png" alt="Sports sends summary" style="width:500px; height:380px; object-fit: cover;">\n')
+        f.write('<figcaption>Total sends per grade and type</figcaption>')
+        f.write('</figure>\n')
+        f.write('<figure class="right">')
+        f.write('<img src="figures/sport_time.png" alt="Sports sends summary" style="width:500px; height:380px; object-fit: cover;">\n')
+        f.write('<figcaption>Average of top 10 climbs per year</figcaption>')
+        f.write('</figure>')
 
 
-def write_table(df, crags):
+def table(df, crags):
 
     df = df.sort_values('date', ascending=False)
 
     with open('log.html', 'a') as f:
+        f.write("\n<h2>Log of sends</h2>\n")
         f.write('<table class="sortable">\n')
         f.write('<tr><th style="width:5%">date</th><th>crag</th><th>route</th><th style="width:5%">grade</th><th>type</th><th>comment</th></tr>\n')
         for index, row in df.iterrows():

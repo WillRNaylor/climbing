@@ -5,7 +5,15 @@ h1{
     color:#ABB2B9;
     font-family: monospace;
 }
+h2{
+    color:#ABB2B9;
+    font-family: monospace;
+}
 p{
+    color: #C2C2C2;
+    font-family: monospace;
+}
+figcaption{
     color: #C2C2C2;
     font-family: monospace;
 }
@@ -27,3 +35,7 @@ tr:nth-child(even) {
     background-color:#1D1D1D;
 }
 tr:hover {background-color:#505050;}
+
+.left, .right {
+    display: inline-block;
+  }
