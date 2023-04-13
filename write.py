@@ -21,7 +21,6 @@ def init():
 
 def make_nested_crag_list(crags):
     oc = list(crags.keys())
-    print(oc)
     crags[oc[0]][0]
 
 
@@ -36,6 +35,15 @@ def analysis():
         f.write('<img src="figures/sport_time.png" alt="Sports sends summary" style="width:500px; height:380px; object-fit: cover;">\n')
         f.write('<figcaption>Average of top 10 climbs per year</figcaption>')
         f.write('</figure>')
+
+
+def grade_table():
+    with open('log.html', 'a') as f:
+        f.write("\n<h2>Grade table</h2>\n")
+        f.write('<figure>')
+        f.write('<img src="figures/sport_grade_table.png" alt="Sports grade table" style="width:auto; height:500px; object-fit: cover;">\n')
+        f.write('<figcaption>Yearly sends and totals</figcaption>')
+        f.write('</figure>\n')
 
 
 def table(df, crags):
@@ -63,5 +71,5 @@ def table(df, crags):
                 asc_type = "<td style='color: red; font-weight: bold;'>r</td>"
             else:
                 asc_type = f"<td>{row['ascent_type']}</td>"
-            f.write(f"<tr><td>{row['date'].strftime('%d.%m.%y')}</td><td>{row['crag']}</td><td>{row['route']}</td><td>{grade}</td>{asc_type}<td>{row['comment']}</td></tr>\n")
+            f.write(f"<tr><td>{row['date'].strftime('%d.%m.%y')}</td><td>{crags[row['crag']][-1]}</td><td>{row['route']}</td><td>{grade}</td>{asc_type}<td>{row['comment']}</td></tr>\n")
         f.write('</table>\n')

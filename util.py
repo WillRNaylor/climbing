@@ -3,6 +3,7 @@ import re
 import datetime
 import pandas as pd
 
+
 def get_crag_dict(file):
 
     with open(file, 'r') as f:
@@ -38,7 +39,7 @@ def is_date(line):
     return re.fullmatch(date_regex, line)
 
 
-def read_log_file(file, grades):
+def read_log_file(file, grades, WARNINGS=True):
 
     with open(file, 'r') as f:
         lines = f.readlines()
@@ -69,7 +70,8 @@ def read_log_file(file, grades):
             if grade in french_grades:
                 num_grade = grades[grade]
             elif grade[0] in ['B', 'V']:
-                print(f'WARNING: Skipping boulders for now (l.{i + 1}): {line}')
+                if WARNINGS:
+                    print(f'WARNING: Skipping boulders for now (l.{i + 1}): {line}')
                 num_grade = 0
             else:
                 num_grade = int(grade)

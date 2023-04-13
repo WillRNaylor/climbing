@@ -13,7 +13,7 @@ Slyngelen; 6a; r
 Den brune flecken; 5; o
 
 01.10.15
-Avlopet; 5; 0; Free soloed, its a short trad line
+Avlopet; 5; o; Free soloed, its a short trad line
 
 19.08.18
 Britten:
@@ -41,7 +41,7 @@ Colonel Malone; 21; r; Hard for grade
 
 06.01.17
 Britten:
-Face race; 2; r; Classic, nice face climbing
+Face race; 22; r; Classic, nice face climbing
 
 05.02.17
 The cave:
@@ -415,4 +415,27 @@ Bogan to the Bone; 16; o
 A Thyme to Remember; 22; o; Not that chossy actually
 Its Business Thyme; 19; o; Was worried about the choss
 A Shade of Afternoon Arete; 19; r; Had worked TRS one day. Actually quite a nice climb.
+
+26.03.23
+Whale Watching:
+10 Boy Scouts; 24; o; Thought it was an 18, did it as a warm up. Got warm.
+Moby Dick; 25; r; Second go. Quite a nice climb.
+Hobo Humping Slobo Babe; 23; r; Second go. Just one hard move that I failed on the first go.
+No Thanks I'd Rather Walk; 20; f
+
+04.04.23
+Firewood Creek:
+Pyrocene; 23; r
+Anthropocene; 24; r; Seemed quite hard, but with good beta was quite easy.
+
+07.04.23
+Dancing on Hot Coals; 23; o; Climbed quite well, might be soft for my height.
+
+09.04.23
+Little Babylon:
+Rua Tahi; 23; r
+
+10.04.23
+Bish Bosh Bash; 23; r
+
 
