@@ -26,13 +26,10 @@ def get_top_sport_climbs(df, year, n_top, fill_blank=None, avg=False, total=Fals
 
 def fig_sport_total(
         df, grades_inv, figname='figures/sport_total.png',
-        min_grade=14, max_grade=30, min_ascents=0, max_ascents=26, counts_figsize=9):
+        min_grade=14, max_grade=30, min_ascents=0, max_ascents=30, counts_figsize=9):
     
-    text_vert_start = 0.086
-    text_vert_end = 1.55
-    text_hor_start = 0.02
-    text_hor_end = -0.5
-    text_hor_scale_fudge = -0.8
+    text_vert_start = 0.23
+    text_hor_start = -0.54
 
     data = [
         df[df.ascent_type == 'o'].num_grade.values,
@@ -68,18 +65,18 @@ def fig_sport_total(
             for i in range(grade_diff):
                 if counts[a_type][i] == 0:
                     continue
-                ax.text(text_hor_start + (send_sums[i] + text_hor_scale_fudge) / (max_ascents - min_ascents + text_hor_end),
-                        text_vert_start + i / (grade_diff + text_vert_end), str(counts[a_type][i]),
-                    horizontalalignment='center', verticalalignment='top',
-                    transform=ax.transAxes, fontsize=counts_figsize, color='black')
+                ax.text(
+                    text_hor_start + send_sums[i], text_vert_start + i + min_grade,
+                    str(counts[a_type][i]), horizontalalignment='center', verticalalignment='top',
+                    transform=ax.transData, fontsize=counts_figsize, color='black')
         # Now print the sums of the total
         for i in range(grade_diff):
             if send_sums[i] == 0:
                 continue
-            ax.text(text_hor_start + (send_sums[i] + text_hor_scale_fudge + 1) / (max_ascents - min_ascents + text_hor_end),
-                    text_vert_start + i / (grade_diff + text_vert_end), str(int(send_sums[i])),
-                horizontalalignment='center', verticalalignment='top',
-                transform=ax.transAxes, fontsize=counts_figsize, color='white')
+            ax.text(
+                text_hor_start + send_sums[i] + 1, text_vert_start + i + min_grade,
+                str(int(send_sums[i])), horizontalalignment='center', verticalalignment='top',
+                transform=ax.transData, fontsize=counts_figsize, color='white')
         # Legend, and finishing up
         frame = legend.get_frame()
         frame.set_facecolor('black')
@@ -213,10 +210,10 @@ def sport_grade_table(df, figname='figures/sport_grade_table.png', start=2015, s
     with plt.rc_context({'xtick.color':'grey', 'ytick.color':'gray', 'axes.edgecolor':'grey', 'figure.dpi':140}):
         fig = plt.figure(figsize=(12, fig_height))
         fig.set_facecolor('black')
-        # for y in np.range(start, stop + 1):
+        # Outer loop going through the years (y):
         for yi, y in enumerate(range(start, stop + 1)):
             top = get_top_sport_climbs(df, y, n_top, fill_blank=fill_blank)
-            top_no_fill = get_top_sport_climbs(df, y, n_top)
+            top_no_fill = get_top_sport_climbs(df, y, 100)  # This one just used to calculate the totals.
             for i, g in enumerate(top):
                 g.append("\n" + str(len(top_no_fill[i])))
             fig.text(hor_start + 1 * hor_step_inner + yi * hor_step_year, header_vert_align, str(y) + ":",

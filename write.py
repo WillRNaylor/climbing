@@ -9,6 +9,7 @@ def init():
 <title>Climbing log</title>
 <script src="sorttable.js"></script>
 <link rel="stylesheet" href="styles.css">
+<link rel="icon" href="figures/sport_total.png">
 </head>
 
 <header>
