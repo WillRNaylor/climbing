@@ -400,6 +400,7 @@ Zoot Alors; 24; r; Had one attemp about a month back. Maybe soft, but a super ni
 bannockburn:
 Heart of the Desert; 17; o
 Cherry Picker; 20; o
+Chain gang; 15; o; Approx date.
 
 07.03.23
 Mt Iron:
@@ -561,6 +562,10 @@ Just in Thyme; 24; r; Start left, use the arete (intended). Kind of easy, but sc
 12.12.23
 Mt Iron:
 Mezzanine; 25; r; Worked it out quite well. Send not super desperate.
+
+14.12.23
+Bannockburn:
+Take a BOW; 21; f; Easy if you are tall. Kind of average route, despite some OK climbing at start.
 
 17.12.23
 The Office:
