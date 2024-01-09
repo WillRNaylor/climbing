@@ -26,7 +26,7 @@ def get_top_sport_climbs(df, year, n_top, fill_blank=None, avg=False, total=Fals
 
 def fig_sport_total(
         df, grades_inv, figname='figures/sport_total.png',
-        min_grade=14, max_grade=30, min_ascents=0, max_ascents=30, counts_figsize=9):
+        min_grade=14, max_grade=30, min_ascents=0, max_ascents=32, counts_figsize=9):
     
     text_vert_start = 0.23
     text_hor_start = -0.54
@@ -36,8 +36,7 @@ def fig_sport_total(
         df[df.ascent_type == 'f'].num_grade.values,
         df[df.ascent_type == 'r'].num_grade.values,
     ]
-
-    xticks = np.arange(min_ascents, max_ascents, 1)
+    xticks = np.arange(min_ascents, max_ascents, 2)
     yticks = np.arange(min_grade, max_grade, 1)
     ytlabels = [f"{grades_inv[x]} / " + str(x) for x in np.arange(min_grade, max_grade, 1)]
     with plt.rc_context({'xtick.color':'grey', 'ytick.color':'gray', 'axes.edgecolor':'grey', 'figure.dpi':140}):
@@ -87,9 +86,7 @@ def fig_sport_total(
         plt.savefig(figname)
 
 
-def fig_sport_time(df, figname='figures/sport_time.png', print_top=True, top_year=2023):
-    start = 2017
-    stop = 2023
+def fig_sport_time(df, figname='figures/sport_time.png', print_top=True, start=2017, stop=2023, top_year=2024):
     df_sport = df[df.num_grade != 0]
     data = []
     for y in np.arange(start, stop + 1):
@@ -148,9 +145,7 @@ def fig_sport_time(df, figname='figures/sport_time.png', print_top=True, top_yea
         plt.savefig(figname)
 
 
-def fig_sport_time_all(df, figname='figures/sport_time_all.png'):
-    start = 2017
-    stop = 2023
+def fig_sport_time_all(df, figname='figures/sport_time_all.png', start=2017, stop=2023):
     df_sport = df[df.num_grade != 0]
     data = []
     for y in np.arange(start, stop + 1):

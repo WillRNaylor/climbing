@@ -2,7 +2,6 @@ New Zealand; Dunedin; Long Beach: Long Beach
 New Zealand; Wanaka; Al Cap: Al Cap
 New Zealand; Wanaka; Falcon Steep Wall: Falcon Steep Wall
 New Zealand; Wanaka; Farside: Farside
-New Zealand; Wanaka; Firewood Creek: Firewood Creek
 New Zealand; Wanaka; High Side: High Side
 New Zealand; Wanaka; Hotline Corner: Hotline Corner
 New Zealand; Wanaka; Mt Iron: Mt Iron
@@ -17,6 +16,7 @@ New Zealand; Wanaka; White Wall: White Wall
 New Zealand; Queenstown; Wye Creek: Wye Creek
 New Zealand; Central Otago; Bannockburn: Bannockburn
 New Zealand; Central Otago; Boat Ramp: Boat Ramp
+New Zealand; Central Otago; Firewood Creek: Firewood Creek
 New Zealand; The Darrans; Little Babylon: Little Babylon
 New Zealand; Christchurch; Britten crag: Britten
 New Zealand; Christchurch; Castle Hill: Castle Hill
