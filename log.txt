@@ -359,7 +359,7 @@ Unknown 23 beside bogans; 23; r
 Bogans; 17; f
 
 15.01.23
-Falcon Steep Wall:
+Falcon Steep:
 Cougar Corner; 17; o; Approx date.
 Falcon Steep; 22; o; Approx date. Was a great climb, kind of sequency at the start, lovely second half.
 
@@ -448,11 +448,11 @@ Rua Tahi; 23; r
 Bish Bosh Bash; 23; r
 
 15.04.23
-Falcon Steep Wall:
+Falcon Steep:
 The 2.4 Minute Man; 26; r; 5 goes over two different days. Was super easy in the end c. 24 if I climb well.
 
 16.04.23
-Pencil Dick Wall:
+Pencil Dick:
 Wet Winkle; 22; o; Lovely climb.
 
 20.04.23
@@ -592,3 +592,15 @@ Route; 25; r; Didn't like the route at all. Had a weird hand jam. Hrad for grade
 Firewood Creek:
 Spontaneous combustion; 23; o; really nice semi trustworthy face climbing
 Pyromaniac; 24; f; No hands knee-bar helped before crux. very chossy. 2nd ascent.
+
+13.01.24
+Pencil Dick:
+Drop In, Drop Out; 18; f;
+Botox Viagra; 21; f; Super nice long route.
+Stick It In; 20; f; Kind of hard little crux up near the top. God jamming training.
+My Little One; 24; o; Was very happy with this one, felt kind of easy for the grade, but fun.
+Grazon Against Wooly Wullens; 25; r; Two goes, easy but a hard crux with bad feet.
+Take No Prisoners; 22; r; Two goes, thought it was very hard, then did it easily on second go.
+
+17.01.04
+Reach for the Purple Love Truncheon; 26; r; Two goes, felt super easy.

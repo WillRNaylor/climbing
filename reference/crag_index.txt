@@ -1,11 +1,11 @@
 New Zealand; Dunedin; Long Beach: Long Beach
 New Zealand; Wanaka; Al Cap: Al Cap
-New Zealand; Wanaka; Falcon Steep Wall: Falcon Steep Wall
+New Zealand; Wanaka; Falcon Steep: Falcon Steep
 New Zealand; Wanaka; Farside: Farside
 New Zealand; Wanaka; High Side: High Side
 New Zealand; Wanaka; Hotline Corner: Hotline Corner
 New Zealand; Wanaka; Mt Iron: Mt Iron
-New Zealand; Wanaka; Pencil Dick Wall: Pencil Dick Wall
+New Zealand; Wanaka; Pencil Dick: Pencil Dick
 New Zealand; Wanaka; Riverside: Riverside
 New Zealand; Wanaka; Rumour Mill: Rumour Mill
 New Zealand; Wanaka; Sunnyside: Sunnyside
