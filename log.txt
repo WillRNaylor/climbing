@@ -434,6 +434,7 @@ No Thanks I'd Rather Walk; 20; f
 
 04.04.23
 Firewood Creek:
+Rocketry; 20; o
 Pyrocene; 23; r
 Anthropocene; 24; r; Seemed quite hard, but with good beta was quite easy.
 
@@ -584,12 +585,18 @@ Peking Man; 27; r; 4 goes, climbed poorly through a lot of pump.
 The Office:
 The 3-Hour Woman; 26; r; Maybe 7/8 goes over three days. Very hard on skin. Eventually went more 'direct' at the traverse.
 
-07.01.24
+02.01.24
+Mt Iron:
+A sharp prick; 24; r; Two goes
+Steelworks; 23; r; Tried once years ago I think. Two goes.
+
+04.01.24
 White Wall:
-Route; 25; r; Didn't like the route at all. Had a weird hand jam. Hrad for grade also maybe?
+whiteous; 25; r; Didn't like the route at all. Had a weird hand jam. Hrad for grade also maybe?
 
 08.01.24
 Firewood Creek:
+Pyromania; 24; f; No hands knee-bar helped before crux. very chossy. 2nd ascent.
 Spontaneous combustion; 23; o; really nice semi trustworthy face climbing
 Pyromaniac; 24; f; No hands knee-bar helped before crux. very chossy. 2nd ascent.
 
