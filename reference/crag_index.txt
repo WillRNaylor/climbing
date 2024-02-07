@@ -1,5 +1,7 @@
 New Zealand; Dunedin; Long Beach: Long Beach
 New Zealand; Wanaka; Al Cap: Al Cap
+New Zealand; Wanaka; Al Cove: Al Cove
+New Zealand; Wanaka; Brummy Crag: Brummy Crag
 New Zealand; Wanaka; Falcon Steep: Falcon Steep
 New Zealand; Wanaka; Farside: Farside
 New Zealand; Wanaka; High Side: High Side
