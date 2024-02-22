@@ -6,10 +6,13 @@ New Zealand; Wanaka; Falcon Steep: Falcon Steep
 New Zealand; Wanaka; Farside: Farside
 New Zealand; Wanaka; High Side: High Side
 New Zealand; Wanaka; Hotline Corner: Hotline Corner
+New Zealand; Wanaka; Jimmy Cliff: Jimmy Cliff
 New Zealand; Wanaka; Mt Iron: Mt Iron
 New Zealand; Wanaka; Pencil Dick: Pencil Dick
+New Zealand; Wanaka; Roadside: Roadside
 New Zealand; Wanaka; Riverside: Riverside
 New Zealand; Wanaka; Rumour Mill: Rumour Mill
+New Zealand; Wanaka; Sharon Stone: Sharon Stone
 New Zealand; Wanaka; Sunnyside: Sunnyside
 New Zealand; Wanaka; The Office: The Office
 New Zealand; Wanaka; Tombstone: Tombstone

@@ -24,7 +24,7 @@ current_year = today.year
 df = util.read_log_file(LOGFILE, grades, WARNINGS)
 
 # ---- Make the figures
-analysis.fig_sport_total(df, grades_inv, max_ascents=33)
+analysis.fig_sport_total(df, grades_inv, max_ascents=36)
 analysis.fig_sport_time(df, stop=current_year, top_year=current_year)
 analysis.fig_sport_time_all(df, stop=current_year)
 analysis.sport_grade_table(df, stop=current_year)
