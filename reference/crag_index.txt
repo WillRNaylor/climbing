@@ -1,4 +1,22 @@
+New Zealand; Central Otago; Bannockburn: Bannockburn
+New Zealand; Central Otago; Boat Ramp: Boat Ramp
+New Zealand; Central Otago; Firewood Creek: Firewood Creek
+New Zealand; Christchurch; Britten crag: Britten
+New Zealand; Christchurch; Castle Hill: Castle Hill
+New Zealand; Christchurch; Lyttelton Rock: Lyttelton Rock
+New Zealand; Christchurch; The Cave: The Cave
+New Zealand; The Darrans; Little Babylon: Little Babylon
 New Zealand; Dunedin; Long Beach: Long Beach
+New Zealand; Paines Ford; Carnage Wall: Carnage Wall
+New Zealand; Paines Ford; Creese Wall: Creese Wall
+New Zealand; Paines Ford; Stone Symposium: Stone Symposium
+New Zealand; Paines Ford; Globe Wall: Globe Wall
+New Zealand; Paines Ford; Electric Globe Wall: Electric Globe Wall
+New Zealand; Paines Ford; Tenuite Wall: Tenuite Wall
+New Zealand; Paines Ford; Rat Trap Wall: Rat Trap Wall
+New Zealand; Pohara; Cathedral Rock: Cathedral Rock
+New Zealand; Pohara; Bo Peep Slab: Bo Peep Slab
+New Zealand; Queenstown; Wye Creek: Wye Creek
 New Zealand; Wanaka; Al Cap: Al Cap
 New Zealand; Wanaka; Al Cove: Al Cove
 New Zealand; Wanaka; Brummy Crag: Brummy Crag
@@ -18,15 +36,6 @@ New Zealand; Wanaka; The Office: The Office
 New Zealand; Wanaka; Tombstone: Tombstone
 New Zealand; Wanaka; Whale Watching: Whale Watching
 New Zealand; Wanaka; White Wall: White Wall
-New Zealand; Queenstown; Wye Creek: Wye Creek
-New Zealand; Central Otago; Bannockburn: Bannockburn
-New Zealand; Central Otago; Boat Ramp: Boat Ramp
-New Zealand; Central Otago; Firewood Creek: Firewood Creek
-New Zealand; The Darrans; Little Babylon: Little Babylon
-New Zealand; Christchurch; Britten crag: Britten
-New Zealand; Christchurch; Castle Hill: Castle Hill
-New Zealand; Christchurch; Lyttelton Rock: Lyttelton Rock
-New Zealand; Christchurch; The Cave: The Cave
 Norway; Beachen: Beachen
 Norway; Ekne: Ekne
 Norway; Flatanger: Flatanger
